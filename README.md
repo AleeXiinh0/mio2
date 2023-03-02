@@ -1,1 +1,3 @@
-# mio2
+# Mi primer repositorio
+
+## Alex Jurado
